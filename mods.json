@@ -1,0 +1,9 @@
+{
+  "name": "Big Stick Armory",
+  "displayName": "Big Stick Armory",
+  "author": "[#386dff[]]ShallaVerrza[[]]",
+  "description": "Big stick diplomacy",
+  "minGameVersion": "145.1",
+  "hideBrowser": true,
+  "version": ".1"
+}
